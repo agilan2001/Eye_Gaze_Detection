@@ -4,6 +4,9 @@
 <img src="outs/flow.png" style="margin:15px">
 </p>
 
->### Work Logs : https://1drv.ms/w/s!AtIVTvj8fMZGi1Y9xtGaxRHMYDlV?e=FbXf3P
+|||
+|-|-|
+| Project Abstract | https://1drv.ms/w/s!AtIVTvj8fMZGi1Y9xtGaxRHMYDlV?e=FbXf3P |
+| Work Logs | https://1drv.ms/w/s!AtIVTvj8fMZGi1Y9xtGaxRHMYDlV?e=FbXf3P |
 
 
